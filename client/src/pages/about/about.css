@@ -1,0 +1,14 @@
+.AboutBox{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin-top: 60px;
+ width: 100%;
+}
+.AboutContent{
+        display: flex;
+        align-items: center;
+        margin: auto;
+        max-width: 50%;
+        color: #444;
+}
